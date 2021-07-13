@@ -15,4 +15,4 @@ Rocket League to create a rotation between the 3 players of my team.
 In the second one, all the functions needed to implement the strategy are defined.
 
 I finished second out of 15 teams.  
-A complete report *DD2438_Assignment3_group10* of this report can also be found.
+A complete report *DD2438_Assignment3_group10* of this project can also be found.
